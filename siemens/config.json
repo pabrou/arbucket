@@ -1,0 +1,49 @@
+{
+  "bundles":[
+    {
+      "datasetXml": "https://dl.dropboxusercontent.com/u/1143514/siemens/datasets/database1/database1.xml",
+      "datasetDat": "https://dl.dropboxusercontent.com/u/1143514/siemens/datasets/database1/database1.dat",
+      "assetBundleData" : {
+        "assetName": "tia6964",
+        "version": 0,
+        "scaleFactor": 0.004,
+        "urlMac": "https://dl.dropboxusercontent.com/u/1143514/siemens/assetbundles/macos/tia6964.unity3d",
+        "urlAndroid": "https://dl.dropboxusercontent.com/u/1143514/siemens/assetbundles/android/tia6964.unity3d",
+        "urliOS": "https://dl.dropboxusercontent.com/u/1143514/siemens/assetbundles/ios/tia6964.unity3d"
+      },
+      "video" : null
+    },
+    {
+      "datasetXml": "https://dl.dropboxusercontent.com/u/1143514/siemens/datasets/database2/database2.xml",
+      "datasetDat": "https://dl.dropboxusercontent.com/u/1143514/siemens/datasets/database2/database2.dat",
+      "assetBundleData" : null,
+      "video" : "https://dl.dropboxusercontent.com/u/1143514/siemens/videos/FREESTYLE-BANE.mp4"
+    },
+    {
+      "datasetXml": "https://dl.dropboxusercontent.com/u/1143514/siemens/datasets/database3/database3.xml",
+      "datasetDat": "https://dl.dropboxusercontent.com/u/1143514/siemens/datasets/database3/database3.dat",
+      "assetBundleData" : {
+        "assetName": "saturnv",
+        "version": 0,
+        "scaleFactor": 0.1,
+        "urlMac": "https://dl.dropboxusercontent.com/u/1143514/siemens/assetbundles/macos/saturnv.unity3d",
+        "urlAndroid": "https://dl.dropboxusercontent.com/u/1143514/siemens/assetbundles/android/saturnv.unity3d",
+        "urliOS": "https://dl.dropboxusercontent.com/u/1143514/siemens/assetbundles/ios/saturnv.unity3d"
+      },
+      "video" : null
+    },
+    {
+      "datasetXml": "https://dl.dropboxusercontent.com/u/1143514/siemens/datasets/database4/database4.xml",
+      "datasetDat": "https://dl.dropboxusercontent.com/u/1143514/siemens/datasets/database4/database4.dat",
+      "assetBundleData" : {
+        "assetName": "lunarlander",
+        "version": 0,
+        "scaleFactor": 0.1,
+        "urlMac": "https://dl.dropboxusercontent.com/u/1143514/siemens/assetbundles/macos/lunarlander.unity3d",
+        "urlAndroid": "https://dl.dropboxusercontent.com/u/1143514/siemens/assetbundles/android/lunarlander.unity3d",
+        "urliOS": "https://dl.dropboxusercontent.com/u/1143514/siemens/assetbundles/ios/lunarlander.unity3d"
+      },
+      "video" : null
+    }
+  ]
+}
