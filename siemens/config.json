@@ -23,12 +23,12 @@
       "datasetXml": "https://raw.githubusercontent.com/pabrou/arbucket/master/siemens/datasets/database3/database3.xml",
       "datasetDat": "https://raw.githubusercontent.com/pabrou/arbucket/master/siemens/datasets/database3/database3.dat",
       "assetBundleData" : {
-        "assetName": "saturnv",
+        "assetName": "machine",
         "version": 0,
-        "scaleFactor": 0.1,
-        "urlMac": "https://raw.githubusercontent.com/pabrou/arbucket/master/siemens/assetbundles/macos/saturnv.unity3d",
-        "urlAndroid": "https://raw.githubusercontent.com/pabrou/arbucket/master/siemens/assetbundles/android/saturnv.unity3d",
-        "urliOS": "https://raw.githubusercontent.com/pabrou/arbucket/master/siemens/assetbundles/ios/saturnv.unity3d"
+        "scaleFactor": 1,
+        "urlMac": "https://raw.githubusercontent.com/pabrou/arbucket/master/siemens/assetbundles/macos/machine170318.unity3d",
+        "urlAndroid": "https://raw.githubusercontent.com/pabrou/arbucket/master/siemens/assetbundles/android/machine170318.unity3d",
+        "urliOS": "https://raw.githubusercontent.com/pabrou/arbucket/master/siemens/assetbundles/ios/machine170318.unity3d"
       },
       "video" : null
     },
