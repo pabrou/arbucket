@@ -26,9 +26,9 @@
         "assetName": "machine",
         "version": 0,
         "scaleFactor": 0.5,
-        "urlMac": "https://raw.githubusercontent.com/pabrou/arbucket/master/siemens/assetbundles/macos/machine170318.unity3d",
-        "urlAndroid": "https://raw.githubusercontent.com/pabrou/arbucket/master/siemens/assetbundles/android/machine170318.unity3d",
-        "urliOS": "https://raw.githubusercontent.com/pabrou/arbucket/master/siemens/assetbundles/ios/machine170318.unity3d"
+        "urlMac": "https://raw.githubusercontent.com/pabrou/arbucket/master/siemens/assetbundles/macos/machine170321.unity3d",
+        "urlAndroid": "https://raw.githubusercontent.com/pabrou/arbucket/master/siemens/assetbundles/android/machine170321.unity3d",
+        "urliOS": "https://raw.githubusercontent.com/pabrou/arbucket/master/siemens/assetbundles/ios/machine170321.unity3d"
       },
       "video" : null
     },
